@@ -1,0 +1,20 @@
+@import "~primereact/resources/themes/saga-blue/theme.css";
+@import "~primereact/resources/primereact.min.css";
+@import "~primeicons/primeicons.css";
+
+.app {
+
+.list {
+  padding: 0;
+  margin-bottom: 30px;
+  list-style: none;
+  .list-item {
+    text-align: center;
+    width: 100%;
+    border: 1px solid #555;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: auto;
+  }
+}
+}
