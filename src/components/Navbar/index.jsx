@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/react-paginator">
+        <Link className="navbar-brand" to="/">
           REACT
         </Link>
         <button
@@ -22,7 +22,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item dropdown">
-              <Link className="nav-link" to="/react-paginator/list">
+              <Link className="nav-link" to="/list">
                 Products
               </Link>
             </li>

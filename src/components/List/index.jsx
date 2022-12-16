@@ -24,7 +24,7 @@ const List = () => {
   // pager on change
   const onBasicPageChange = (event) => {
     history.push({
-      pathname: "/react-paginator/list",
+      pathname: "/list",
       search:
         event.page === 0
           ? event.rows === 2
@@ -52,7 +52,7 @@ const List = () => {
             <p>{item.title}</p>
             <img style={{ height: "90px" }} alt="img" src={item.thumbnail} />
             <br />
-            <Link to={`/react-paginator/list/item/${item.id}`}>more</Link>
+            <Link to={`/list/item/${item.id}`}>more</Link>
           </li>
         ))}
       </ul>

@@ -1,29 +1,29 @@
 import React from "react";
 import List from "./components/List";
 import ListItem from "./components/ListItem";
-import { HashRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <div className="app">
         <Navbar />
         <Switch>
-          <Route path="/react-paginator/list/item/:id">
+          <Route path="/list/item/:id">
             <ListItem />
           </Route>
-          <Route path="/react-paginator/list">
+          <Route path="/list">
             <List />
           </Route>
-          <Route path="/react-paginator">
+          <Route path="/">
             <div className="text-center">
               <h1>WELCOME</h1>
             </div>
           </Route>
         </Switch>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 
