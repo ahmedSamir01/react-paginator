@@ -10,13 +10,13 @@ function App() {
       <div className="app">
         <Navbar />
         <Switch>
-          <Route path="/list/item/:id">
+          <Route path="/react-paginator/list/item/:id">
             <ListItem />
           </Route>
-          <Route path="/list">
+          <Route path="/react-paginator/list">
             <List />
           </Route>
-          <Route path="/">
+          <Route path="/react-paginator">
             <div className="text-center">
               <h1>WELCOME</h1>
             </div>
