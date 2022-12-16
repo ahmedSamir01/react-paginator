@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-paginator/static/css/main.a23ea6b0.chunk.css",
-    "main.js": "/react-paginator/static/js/main.92c34778.chunk.js",
-    "main.js.map": "/react-paginator/static/js/main.92c34778.chunk.js.map",
+    "main.js": "/react-paginator/static/js/main.bae047cc.chunk.js",
+    "main.js.map": "/react-paginator/static/js/main.bae047cc.chunk.js.map",
     "runtime-main.js": "/react-paginator/static/js/runtime-main.a6de1684.js",
     "runtime-main.js.map": "/react-paginator/static/js/runtime-main.a6de1684.js.map",
     "static/css/2.80742106.chunk.css": "/react-paginator/static/css/2.80742106.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.80742106.chunk.css",
     "static/js/2.256b4272.chunk.js",
     "static/css/main.a23ea6b0.chunk.css",
-    "static/js/main.92c34778.chunk.js"
+    "static/js/main.bae047cc.chunk.js"
   ]
 }
