@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-Paginator/static/css/main.a23ea6b0.chunk.css",
-    "main.js": "/React-Paginator/static/js/main.0d797e8e.chunk.js",
-    "main.js.map": "/React-Paginator/static/js/main.0d797e8e.chunk.js.map",
-    "runtime-main.js": "/React-Paginator/static/js/runtime-main.45889799.js",
-    "runtime-main.js.map": "/React-Paginator/static/js/runtime-main.45889799.js.map",
-    "static/css/2.8aebf03e.chunk.css": "/React-Paginator/static/css/2.8aebf03e.chunk.css",
-    "static/js/2.1c573fba.chunk.js": "/React-Paginator/static/js/2.1c573fba.chunk.js",
-    "static/js/2.1c573fba.chunk.js.map": "/React-Paginator/static/js/2.1c573fba.chunk.js.map",
-    "index.html": "/React-Paginator/index.html",
-    "static/css/2.8aebf03e.chunk.css.map": "/React-Paginator/static/css/2.8aebf03e.chunk.css.map",
-    "static/css/main.a23ea6b0.chunk.css.map": "/React-Paginator/static/css/main.a23ea6b0.chunk.css.map",
-    "static/js/2.1c573fba.chunk.js.LICENSE.txt": "/React-Paginator/static/js/2.1c573fba.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/React-Paginator/static/media/primeicons.ea535860.ttf"
+    "main.css": "/react-paginator/static/css/main.a23ea6b0.chunk.css",
+    "main.js": "/react-paginator/static/js/main.5a9f5f08.chunk.js",
+    "main.js.map": "/react-paginator/static/js/main.5a9f5f08.chunk.js.map",
+    "runtime-main.js": "/react-paginator/static/js/runtime-main.a6de1684.js",
+    "runtime-main.js.map": "/react-paginator/static/js/runtime-main.a6de1684.js.map",
+    "static/css/2.80742106.chunk.css": "/react-paginator/static/css/2.80742106.chunk.css",
+    "static/js/2.17ad2b54.chunk.js": "/react-paginator/static/js/2.17ad2b54.chunk.js",
+    "static/js/2.17ad2b54.chunk.js.map": "/react-paginator/static/js/2.17ad2b54.chunk.js.map",
+    "index.html": "/react-paginator/index.html",
+    "static/css/2.80742106.chunk.css.map": "/react-paginator/static/css/2.80742106.chunk.css.map",
+    "static/css/main.a23ea6b0.chunk.css.map": "/react-paginator/static/css/main.a23ea6b0.chunk.css.map",
+    "static/js/2.17ad2b54.chunk.js.LICENSE.txt": "/react-paginator/static/js/2.17ad2b54.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/react-paginator/static/media/primeicons.ea535860.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.45889799.js",
-    "static/css/2.8aebf03e.chunk.css",
-    "static/js/2.1c573fba.chunk.js",
+    "static/js/runtime-main.a6de1684.js",
+    "static/css/2.80742106.chunk.css",
+    "static/js/2.17ad2b54.chunk.js",
     "static/css/main.a23ea6b0.chunk.css",
-    "static/js/main.0d797e8e.chunk.js"
+    "static/js/main.5a9f5f08.chunk.js"
   ]
 }
