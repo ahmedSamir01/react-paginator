@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RePaginator/static/css/main.a23ea6b0.chunk.css",
+    "main.js": "/RePaginator/static/js/main.0d797e8e.chunk.js",
+    "main.js.map": "/RePaginator/static/js/main.0d797e8e.chunk.js.map",
+    "runtime-main.js": "/RePaginator/static/js/runtime-main.eee9fc5f.js",
+    "runtime-main.js.map": "/RePaginator/static/js/runtime-main.eee9fc5f.js.map",
+    "static/css/2.7bc5989f.chunk.css": "/RePaginator/static/css/2.7bc5989f.chunk.css",
+    "static/js/2.3d8e9437.chunk.js": "/RePaginator/static/js/2.3d8e9437.chunk.js",
+    "static/js/2.3d8e9437.chunk.js.map": "/RePaginator/static/js/2.3d8e9437.chunk.js.map",
+    "index.html": "/RePaginator/index.html",
+    "static/css/2.7bc5989f.chunk.css.map": "/RePaginator/static/css/2.7bc5989f.chunk.css.map",
+    "static/css/main.a23ea6b0.chunk.css.map": "/RePaginator/static/css/main.a23ea6b0.chunk.css.map",
+    "static/js/2.3d8e9437.chunk.js.LICENSE.txt": "/RePaginator/static/js/2.3d8e9437.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/RePaginator/static/media/primeicons.ea535860.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eee9fc5f.js",
+    "static/css/2.7bc5989f.chunk.css",
+    "static/js/2.3d8e9437.chunk.js",
+    "static/css/main.a23ea6b0.chunk.css",
+    "static/js/main.0d797e8e.chunk.js"
+  ]
+}
