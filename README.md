@@ -1,19 +1,21 @@
-Desc: A simple React app, with a dynamic & effective paginator.
+# React Pagination 
 
-Techs:
+A simple React app, with a dynamic & effective paginator.
 
-- React
-- Bootstrap
-- Prime
-- Sass
+## Used technologies:
 
-features:
+    React
+    SASS
+    Prime
+    Bootstrap
 
-- Ability to move between pages forward and backward using numbers or buttons.
-- Control of rows count per page with a dropdown.
-- Kepping the settings even after reloading the page.
+## features:
 
-# Getting Started with Create React App
+    Ability to move between pages forward and backward using numbers or buttons.
+    Control of rows count per page with a dropdown.
+    Kepping the settings even after reloading the page.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
